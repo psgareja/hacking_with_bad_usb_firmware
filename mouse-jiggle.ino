@@ -1,9 +1,3 @@
-// Digispark Mouse Jiggler
-// Written by James Franklin for Air-Gap in 2019
-// www.air-gap.com.au
-
-// Modified by Kody Kinzie of Null Byte
-// https://github.com/skickar/USBAttackWorkshop/blob/master/MouseJigglerBIG.ino
 
 #include <DigiMouse.h>
 unsigned int LowerCycleTime = 500; //Minimum Time in milli-seconds between each mouse action  Default: 10000 (10 Seconds), Max 65535ms
